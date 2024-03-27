@@ -1,4 +1,4 @@
-#include "cmake-build-debug/zlib-ng/zlib-ng.h"
+#include "cmake-build-debug/_deps/zlib-ng-build/zlib-ng.h"
 #include <dragonruby.h>
 #include <mruby/string.h>
 
